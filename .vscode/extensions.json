@@ -11,6 +11,7 @@
         "ms-mssql.sql-database-projects-vscode",
         "mtxr.sqltools-driver-mssql",
         "mtxr.sqltools",
-        "mtxr.sqltools-driver-pg"
+        "mtxr.sqltools-driver-pg",
+        "ms-python.python"
     ]
 }
