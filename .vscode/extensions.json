@@ -2,6 +2,15 @@
     "recommendations": [
         "ckolkman.vscode-postgres",
         "cweijan.vscode-postgresql-client2",
-        "cweijan.dbclient-jdbc"
+        "cweijan.dbclient-jdbc",
+        "cweijan.vscode-myssql-client2",
+        "mengrbatinov.mssql-snippets",
+        "mengrbatinov.mssql-extensions-starter-pack",
+        "mengrbatinov.mssql-scripts",
+        "ms-mssql.mssql",
+        "ms-mssql.sql-database-projects-vscode",
+        "mtxr.sqltools-driver-mssql",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg"
     ]
 }

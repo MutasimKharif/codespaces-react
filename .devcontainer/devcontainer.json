@@ -14,6 +14,12 @@
       "openFiles": [
         "src/App.jsx"
       ]
+    },
+    "vscode": {
+      "extensions": [
+        "mtxr.sqltools-driver-mssql",
+        "mtxr.sqltools"
+      ]
     }
   },
   "portsAttributes": {
